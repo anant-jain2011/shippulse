@@ -1,3 +1,4 @@
 {
-    "postStartCommand": "nohup mongod --logpath /var/log/mongodb.log > /dev/null 2>&1 &"
+    "postStartCommand": "nohup mongod --logpath /var/log/mongodb.log > /dev/null 2>&1 &",
+    "ai":"https://share.google/aimode/4ONTUJ8DXngRaLK5z"
 }
