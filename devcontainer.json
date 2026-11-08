@@ -1,0 +1,3 @@
+{
+    "postStartCommand": "nohup mongod --logpath /var/log/mongodb.log > /dev/null 2>&1 &"
+}
